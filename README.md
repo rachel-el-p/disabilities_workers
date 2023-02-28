@@ -1,5 +1,5 @@
-#People with disabilities found work during the pandemic, but there's still a wide job chasm to close
-##Data Project Assignment 3 
+# People with disabilities found work during the pandemic, but there's still a wide job chasm to close
+## Data Project Assignment 3 
 
 This is my submission for the Data Studio class' third assignment — to create desktop/laptop and mobile versions of my graphics using Adobe Illustrator
 
