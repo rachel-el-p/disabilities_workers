@@ -1,0 +1,13 @@
+who_sixteen_to_sixtyfour ,occupation,percentage ,median_hourly_wage,mean_annual_pay,subcategory,represented_relative
+PWD,Retail trade,13.4,14.36,"37,590",retail trade,overrepresented
+No ,Retail trade,10.2,14.36,"37,590",retail trade,overrepresented
+PWD,Financial activities,6.2,29.44,"81,420",financial and insurance,underrepresented
+No ,Financial activities,7,29.44,"81,420",financial and insurance,underrepresented
+PWD,Professional and business services,11.7,36.98,"91,150","Professional, Scientific, and Technical Service",underrepresented
+No ,Professional and business services,13.1,36.98,"91,150","Professional, Scientific, and Technical Service",underrepresented
+PWD,Education and health services,20.7,24.10,"61,620",education,underrepresented
+PWD,Education and health services,20.7,20.23,"60,070",health,underrepresented
+No ,Education and health services,22.4,24.10,"61,620",education,underrepresented
+No ,Education and health services,22.4,20.23,"60,070",health,underrepresented
+PWD,Leisure and hospitality,9.9,13.69,"30,850",Accommodation and Food Services,overrepresented
+No ,Leisure and hospitality,8.6,13.69,"30,850",Accommodation and Food Services,overrepresented
