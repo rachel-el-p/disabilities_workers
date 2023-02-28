@@ -22,10 +22,10 @@ These are the sources for my data:
 
 And here are the CSV files: 
 
-*[Labor Force Participation Rate and Unemployment Rate from Jan 2019 to Jan 2023](https://github.com/rachel-el-p/disabilities_workers/blob/main/data/Disability%20-%20Monthly%20change%20LFPR%20and%20Unemployment.csv)
-*[Job wages and percentage of disabilities in it](https://github.com/rachel-el-p/disabilities_workers/blob/main/data/Disability%20-%20Jobtypes.csv)
-*[EEOC Employment Discrimination Claims](https://github.com/rachel-el-p/disabilities_workers/blob/main/data/Disability%20-%20EEOC.csv)
-*[Age-adjusted rate of people with disabilities in each state](https://github.com/rachel-el-p/disabilities_workers/blob/main/data/age_adjusted_by_state.csv)
+* [Labor Force Participation Rate and Unemployment Rate from Jan 2019 to Jan 2023](https://github.com/rachel-el-p/disabilities_workers/blob/main/data/Disability%20-%20Monthly%20change%20LFPR%20and%20Unemployment.csv)
+* [Job wages and percentage of disabilities in it](https://github.com/rachel-el-p/disabilities_workers/blob/main/data/Disability%20-%20Jobtypes.csv)
+* [EEOC Employment Discrimination Claims](https://github.com/rachel-el-p/disabilities_workers/blob/main/data/Disability%20-%20EEOC.csv)
+* [Age-adjusted rate of people with disabilities in each state](https://github.com/rachel-el-p/disabilities_workers/blob/main/data/age_adjusted_by_state.csv)
 
 The data shows that though more adults with disabilities have been able to find work compared to pre-pandemic times, people with disabilities are still half as likely to hold a job. And even if they do, there's a higher possibility they are in lower-wage jobs in the retail and service sectors, and less represented in jobs that pay more, such as those in the education and health, and in managerial positions. 
 
