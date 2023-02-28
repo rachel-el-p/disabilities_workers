@@ -1,4 +1,5 @@
-# Data Studio Project 3: People with disabilities found work during the pandemic, but there's still a wide job chasm to close
+# People with disabilities found work during the pandemic, but there's still a wide job chasm to close
+## Data Project Assignment 3 
 
 This is my submission for the Data Studio class' third assignment — to create desktop/laptop and mobile versions of my graphics using Adobe Illustrator
 
@@ -19,14 +20,22 @@ These are the sources for my data:
 | Percentage of workers in various occuptaions | [BLS' annual Persons with a Disability: Labor Force Characteristics News Release](https://www.bls.gov/news.release/disabl.htm) |
 | Age-adjusted rate of people with disabilities in each state | [CDC's Disability and Health Data System](https://dhds.cdc.gov/LP?CategoryId=DISEST&IndicatorId=STATTYPE&ShowFootnotes=true&View=Map&yearId=YR5&stratCatId1=CAT1&stratId1=BO1&stratCatId2=&stratId2=&responseId=Q6DIS1&dataValueTypeId=AGEADJPREV&MapClassifierId=quantile&MapClassifierCount=5) |
 
+And here are the CSV files: 
+
+* [Labor Force Participation Rate and Unemployment Rate from Jan 2019 to Jan 2023](https://github.com/rachel-el-p/disabilities_workers/blob/main/data/Disability%20-%20Monthly%20change%20LFPR%20and%20Unemployment.csv)
+* [Job wages and percentage of disabilities in it](https://github.com/rachel-el-p/disabilities_workers/blob/main/data/Disability%20-%20Jobtypes.csv)
+* [EEOC Employment Discrimination Claims](https://github.com/rachel-el-p/disabilities_workers/blob/main/data/Disability%20-%20EEOC.csv)
+* [Age-adjusted rate of people with disabilities in each state](https://github.com/rachel-el-p/disabilities_workers/blob/main/data/age_adjusted_by_state.csv)
+
 The data shows that though more adults with disabilities have been able to find work compared to pre-pandemic times, people with disabilities are still half as likely to hold a job. And even if they do, there's a higher possibility they are in lower-wage jobs in the retail and service sectors, and less represented in jobs that pay more, such as those in the education and health, and in managerial positions. 
 
 The story webpage is here: https://rachel-el-p.github.io/disabilities_workers/
 
 ## Skills learned: 
-I got the chance to pick up html more. Also, how to use the auto updating code, and how to pick out the right information from the API. 
+I learned how to fix ai2html glitches and make a slightly different one for mobile readers. I also practice my ggplot chart-making skills, and learned how to use RawGraphs. I think my Illustrator design skills improved after doing some exercises last week where we tried to recreate some news outlets' graphics, and I managed to apply some of that in this project. 
 
 ## Things I would've liked to do:
-I would've wanted to create fancy clocks that tell you the best times to go to Malaysia, a table where the row that corresponds to the current time
-is lighted up, and to draw cute-looking bread, eggs, and chicken. Maybe when I pick up Adobe Illustrator and JavaScript skills.
+I would like to make a hexmap instead of a chloropleth map next, practice using the Census Bureau API (although downloading their CSVs is pretty easy),
+and make a scatterplot that plots how much the jobs where people with disabilities are in and visualize in a different way if 
+people with disabilities are underrepresented in jobs with higher pay and overrepresented in jobs in lower pay. Hopefully I can come back to this soon!
  
