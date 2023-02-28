@@ -15,8 +15,8 @@ These are the sources for my data:
 | Labor Force Participation Rate | [BLS' Employment Situation Report](https://www.bls.gov/bls/news-release/empsit.htm#2023) |
 | Unemployment Rate | [BLS' Employment Situation Report](https://www.bls.gov/bls/news-release/empsit.htm#2023) |
 | Employment discrimination claims  | [EEOC's Charge Statistics](https://www.eeoc.gov/data/charge-statistics-charges-filed-eeoc-fy-1997-through-fy-2021) |
-| Wages of various jobs | [BLS' May 2021 National Industry-Specific Occupational Employment and Wage Estimates] (https://www.bls.gov/oes/current/oessrci.htm) |
-| Percentage of workers in various occuptaions | [BLS' annual Persons with a Disability: Labor Force Characteristics News Release] (https://www.bls.gov/news.release/disabl.htm) |
+| Wages of various jobs | [BLS' May 2021 National Industry-Specific Occupational Employment and Wage Estimates](https://www.bls.gov/oes/current/oessrci.htm) |
+| Percentage of workers in various occuptaions | [BLS' annual Persons with a Disability: Labor Force Characteristics News Release](https://www.bls.gov/news.release/disabl.htm) |
 | Age-adjusted rate of people with disabilities in each state | [CDC's Disability and Health Data System](https://dhds.cdc.gov/LP?CategoryId=DISEST&IndicatorId=STATTYPE&ShowFootnotes=true&View=Map&yearId=YR5&stratCatId1=CAT1&stratId1=BO1&stratCatId2=&stratId2=&responseId=Q6DIS1&dataValueTypeId=AGEADJPREV&MapClassifierId=quantile&MapClassifierCount=5) |
 
 The data shows that though more adults with disabilities have been able to find work compared to pre-pandemic times, people with disabilities are still half as likely to hold a job. And even if they do, there's a higher possibility they are in lower-wage jobs in the retail and service sectors, and less represented in jobs that pay more, such as those in the education and health, and in managerial positions. 
